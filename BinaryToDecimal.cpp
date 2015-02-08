@@ -4,7 +4,7 @@
 //
 //  Created by mostafa amin on 07/02/15.
 //  Copyright (c) 2015 mostafa amin. All rights reserved.
-// write a program to convert 5 digit integer if zeros and ones (Binary Format)
+// write a program to convert 5 digit integer of zeros and ones (Binary Format)
 //into the decimal equivalent
 
 
